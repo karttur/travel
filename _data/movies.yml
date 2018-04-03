@@ -1,0 +1,71 @@
+sahel_atlas_icraf_2009_tg:
+    file: sahel_atlas_ICRAF_2009_tg.mp4
+    author: Thomas Gumbricht
+    caption: "West Africa Sahel: Changing Landscapes"
+    credit: null
+    source: null
+    width: 720
+    height: 540
+
+wetlandmapping_CIFOR_20140906_bogor_tg:
+    file: wetlandmapping_CIFOR_20140906_bogor_tg.mp4
+    author: Thomas Gumbricht
+    caption: "Hybrid mapping of tropical wetlands"
+    credit: null
+    source: null
+    width: 720
+    height: 540
+
+pleasing_AVHRR_oka_199204-199605:
+    file: pleasing_AVHRR_oka_199204-199605.mp4
+    author: Thomas Gumbricht
+    caption: AVHRR satellite images 1992-1996 Okavango, Botswana
+    credit: null
+    source: null
+    width: 720
+    height: 540
+
+ndvi_AVHRR_oka_199204-199605:
+    file: ndvi_AVHRR_oka_199204-199605.mp4
+    author: Thomas Gumbricht
+    caption: AVHRR Normalized Difference Vegeation Index (NDVI) 1992-1996 Okavango, Botswana
+    credit: null
+    source: null
+    width: 720
+    height: 540
+
+flooded_AVHRR_oka_199204-199605:
+    file: flooded_AVHRR_oka_199204-199605.mp4
+    author: Thomas Gumbricht
+    caption: AVHRR flood mask 1992-1996 Okavango, Botswana
+    credit: null
+    source: null
+    width: 720
+    height: 540
+
+x4_AVHRR_oka_199204-199605:
+    file: x4_AVHRR_oka_199204-199605.mp4
+    author: Thomas Gumbricht
+    caption: AVHRR satellite images 1992-1996 Okavango, Botswana
+    credit: null
+    source: null
+    width: 720
+    height: 540
+
+x3_AVHRR_oka_199204-199305:
+    file: x3_AVHRR_oka_199204-199305.mp4
+    author: Thomas Gumbricht
+    caption: AVHRR satellite images 1992-1993 Okavango, Botswana
+    credit: null
+    source: null
+    width: 720
+    height: 540
+
+climb_FAO_rwenzori_200606_tg:
+  file: climb_FAO_rwenzori_200606_tg.mp4
+  author: Thomas Gumbricht
+  caption: Rwenzori Mountains Uganda - commemorate centennial climb
+  credit: null
+  source: null
+  width: 718
+  height: 528

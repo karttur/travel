@@ -1,0 +1,79 @@
+[
+
+  
+    {
+      "title"			: "Mount Elgon, Uganda.",
+      "link"			: "http://localhost:4000/project/project-mtelgon/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Kyoga, Uganda.",
+      "link"			: "http://localhost:4000/project/project-kyoga/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Mount Elgon hike",
+      "link"			: "http://localhost:4000/image/image-mt-elgon/",
+      "excerpt"		: "Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Kyoga boat survey photos",
+      "link"			: "http://localhost:4000/image/image-kyoga-boat/",
+      "excerpt"		: "Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
+    }
+  
+
+  
+    ,{
+      "title"			: "Lake Kyoga aerial photos",
+      "link"			: "http://localhost:4000/image/image-kyoga-aerial/",
+      "excerpt"		: "Photos taken during reconnaissance flight over Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size."
+    }
+  
+
+
+
+  
+
+  
+    ,{
+      "title"			: "About Karttur",
+      "link"			: "http://localhost:4000/about/",
+      "excerpt"		: "Karttur is a private research company in Stockholm, Sweden"
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+]

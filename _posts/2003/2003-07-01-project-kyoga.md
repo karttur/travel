@@ -16,7 +16,7 @@ number:
 issue:
 editor:
 sensor:
-summary: 'Lake Kyoga, Uganda.'
+summary: 'Lake Kyoga survey from air and boat.'
 projurl: ../lakekyoga/
 tag:
   - Lake Kyoga

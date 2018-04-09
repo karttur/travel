@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Mount Elgon, Uganda
-excerpt: "Mount Elgon hike"
+title: Lake Kyoga surveillance from air and boat.
+excerpt: "Lake Kyoga surveillance."
 search_omit: true
 share: true
 
 ---
 
-Hike to the top of Mount Elgon.
+Lake Kyoga surveys and samplings.
 
 ### Movie
 
 <ul class="post-list">
 {% for post in site.categories.movie %}
-  {% if post.projectid == "mtelgon" %}
+  {% if post.projectid == "kyoga" %}
     {% include publication.html post=post %}
   {% endif %}
 {% endfor %}
@@ -23,7 +23,7 @@ Hike to the top of Mount Elgon.
 
 <ul class="post-list">
 {% for post in site.categories.image %}
-  {% if post.projectid == "mtelgon" %}
+  {% if post.projectid == "kyoga" %}
     {% include publication.html post=post %}
   {% endif %}
 {% endfor %}

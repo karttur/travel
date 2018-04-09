@@ -393,11 +393,11 @@
     source: 136_Kyoga_boat-survey_2002.jpg
 
 03_mt-Elgon_thomas_2003:
-  file: 136_Kyoga_boat-survey_2002_ql.jpg
+  file: 03_mt-Elgon_thomas_2003_ql.jpg
   author: Gumbricht, T.
-  caption: "Lake Kyoga boat survey."
+  caption: "Mount Elgon hike."
   credit: null
-  source: 136_Kyoga_boat-survey_2002.jpg
+  source: 03_mt-Elgon_thomas_2003.jpg
 04_mt-Elgon_guides_2003:
   file: 04_mt-Elgon_guides_2003_ql.jpg
   author: Gumbricht, T.
@@ -412,18 +412,18 @@
   credit: null
   source: 07_mt_elgon_200310.jpg
 
-08_mt-elgon_thomas_2003:
-  file: 08_mt-elgon_thomas_2003_ql.jpg
+08_mt-elgon_thomas_200310:
+  file: 08_mt-elgon_thomas_200310_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
-  source: 08_mt-elgon_thomas_2003.jpg
-10_mt-elgon_thomas_2003:
-  file: 10_mt-elgon_thomas_2003_ql.jpg
+  source: 08_mt-elgon_thomas_200310.jpg
+10_mt-elgon_200310_10:
+  file: 10_mt-elgon_200310_10_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
-  source: 10_mt-elgon_thomas_2003.jpg
+  source: 10_mt-elgon_200310_10.jpg
 12_mt-elgon_bamboo_200310:
   file: 12_mt-elgon_bamboo_200310_ql.jpg
   author: Gumbricht, T.
@@ -443,11 +443,11 @@
   credit: null
   source: 15_mt-elgon_thomas_200310.jpg
 17_mt-elgon_peak_200310:
-  file: 15_mt-elgon_thomas_200310_ql.jpg
+  file: 17_mt-elgon_peak_200310_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
-  source: 15_mt-elgon_thomas_200310.jpg
+  source: 17_mt-elgon_peak_200310.jpg
 19_mt-elgon_summit_2003:
   file: 19_mt-elgon_summit_2003_ql.jpg
   author: Gumbricht, T.
@@ -455,50 +455,1031 @@
   credit: null
   source: 19_mt-elgon_summit_2003.jpg
 20_mt-elgon_thomas_200310:
-  file: 20_mt-elgon_thomas_200310.jpg
+  file: 20_mt-elgon_thomas_200310_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 20_mt-elgon_thomas_200310.jpg
 24_mt-elgon_thomas-joakim_200310:
-  file: 24_mt-elgon_thomas-joakim_200310.jpg
+  file: 24_mt-elgon_thomas-joakim_200310_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 24_mt-elgon_thomas-joakim_200310.jpg
 25_mt-elgon_joakim_200310:
-  file: 25_mt-elgon_joakim_200310.jpg
+  file: 25_mt-elgon_joakim_200310_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 25_mt-elgon_joakim_200310.jpg
 26_mt-elgon_thomas_200310:
-  file: 26_mt-elgon_thomas_200310.jpg
+  file: 26_mt-elgon_thomas_200310_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 26_mt-elgon_thomas_200310.jpg
 27_mt_elgon_thomas:
-  file: 27_mt_elgon_thomas.jpg
+  file: 27_mt_elgon_thomas_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 27_mt_elgon_thomas.jpg
 27_mt-elgon_joakim_200310:
-  file: 27_mt-elgon_joakim_200310.jpg
+  file: 27_mt-elgon_joakim_200310_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 27_mt-elgon_joakim_200310.jpg
 30_mt_elgon_thomas:
-  file: 30_mt_elgon_thomas.jpg
+  file: 30_mt_elgon_thomas_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 30_mt_elgon_thomas.jpg
 33_mt-elgon_thomas-rain_2003:
-  file: 33_mt-elgon_thomas-rain_2003.jpg
+  file: 33_mt-elgon_thomas-rain_2003_ql.jpg
   author: Gumbricht, T.
   caption: "Mount Elgon hike."
   credit: null
   source: 33_mt-elgon_thomas-rain_2003.jpg
+
+05_mt-elgon_path_200310:
+  file: 05_mt-elgon_path_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 05_mt-elgon_path_200310.jpg
+06_mt-elgon_jocke_200310:
+  file: 06_mt-elgon_jocke_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 06_mt-elgon_jocke_200310.jpg
+08_mt-elgon_landscape_200310:
+  file: 08_mt-elgon_landscape_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 08_mt-elgon_landscape_200310.jpg
+13_mt-elgon_landscape_200310:
+  file: 13_mt-elgon_landscape_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 13_mt-elgon_landscape_200310.jpg
+14_mt-elgon_evergreen_200310:
+  file: 14_mt-elgon_evergreen_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 14_mt-elgon_evergreen_200310.jpg
+15_mt-elgon_forest_200310:
+  file: 15_mt-elgon_forest_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 15_mt-elgon_forest_200310.jpg
+16_mt-elgon_thomas_200310:
+  file: 16_mt-elgon_thomas_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 16_mt-elgon_thomas_200310.jpg
+28_mt_elgon_thomas:
+  file: 28_mt_elgon_thomas_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 28_mt_elgon_thomas.jpg
+18_mt-elgon_flowers_200310:
+  file: 18_mt-elgon_flowers_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 18_mt-elgon_flowers_200310.jpg
+29_mt-elgon_thomas_2003:
+  file: 29_mt-elgon_thomas_2003_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 29_mt-elgon_thomas_2003.jpg
+
+02_mt-elgon_flowefield_2003:
+  file: 02_mt-elgon_flowefield_2003_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 02_mt-elgon_flowefield_2003.jpg
+19_mt-elgon_flowers_200310:
+  file: 19_mt-elgon_flowers_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 19_mt-elgon_flowers_200310.jpg
+21_mt-elgon_sunset_200310:
+  file: 21_mt-elgon_sunset_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 21_mt-elgon_sunset_200310.jpg
+22_mt-elgon_plateau_200310:
+  file: 22_mt-elgon_plateau_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 22_mt-elgon_plateau_200310.jpg
+23_mt-elgon_plateau_200310:
+  file: 23_mt-elgon_plateau_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 23_mt-elgon_plateau_200310.jpg
+23_mt-elgon_veg_200310:
+  file: 23_mt-elgon_veg_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 23_mt-elgon_veg_200310.jpg
+24_mt-elgon_plateau_200310:
+  file: 24_mt-elgon_plateau_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 24_mt-elgon_plateau_200310.jpg
+28_mt-elgon_thomas_200310:
+  file: 28_mt-elgon_thomas_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 28_mt-elgon_thomas_200310.jpg
+32_mt-elgon_craterwalk_2003:
+  file: 32_mt-elgon_craterwalk_2003_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 32_mt-elgon_craterwalk_2003.jpg
+33_mt-elgon_thomas_200310:
+  file: 33_mt-elgon_thomas_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 33_mt-elgon_thomas_200310.jpg
+34_mt-elgon_landscape_2003:
+  file: 34_mt-elgon_landscape_2003_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 34_mt-elgon_landscape_2003.jpg
+35_mt-elgon_crater_200310:
+  file: 35_mt-elgon_crater_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 35_mt-elgon_crater_200310.jpg
+
+09_mt-elgon_lake_200310:
+  file: 09_mt-elgon_lake_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 09_mt-elgon_lake_200310.jpg
+10_mt-elgon_200310_10:
+  file: 10_mt-elgon_200310_10_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 10_mt-elgon_200310_10.jpg
+05_mt-elgon_landscape_200310:
+  file: 05_mt-elgon_landscape_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 05_mt-elgon_landscape_200310.jpg
+06_mt_elgon_crater:
+  file: 06_mt_elgon_crater_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 06_mt_elgon_crater.jpg
+22_mt-elgon_thomas_200310:
+  file: 22_mt-elgon_thomas_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 22_mt-elgon_thomas_200310.jpg
+
+37_mt-elgon_waterfall_2003:
+  file: 37_mt-elgon_waterfall_2003_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 37_mt-elgon_waterfall_2003.jpg
+
+37_mt-elgon_waterfall_200310:
+  file: 37_mt-elgon_waterfall_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 37_mt-elgon_waterfall_200310.jpg
+
+09_mt-elgon_bamboo_200310:
+  file: 09_mt-elgon_bamboo_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 09_mt-elgon_bamboo_200310.jpg
+
+11_mt-elgon_bamboo_200310:
+  file: 11_mt-elgon_bamboo_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 11_mt-elgon_bamboo_200310.jpg
+
+17_mt-elgon_thomas_200310:
+  file: 17_mt-elgon_thomas_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 17_mt-elgon_thomas_200310.jpg
+
+31_mt-elgon_stream_200310:
+  file: 31_mt-elgon_stream_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 31_mt-elgon_stream_200310.jpg
+
+01_mt_Elgon_flower:
+  file: 01_mt_Elgon_flower_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 01_mt_Elgon_flower.jpg
+11_mt-elgon_veg_2003:
+  file: 11_mt-elgon_veg_2003_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 11_mt-elgon_veg_2003.jpg
+12_mt-elgon_jackson_200310:
+  file: 12_mt-elgon_jackson_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 12_mt-elgon_jackson_200310.jpg
+
+13_mt-elgon_peak_200310:
+  file: 13_mt-elgon_peak_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 13_mt-elgon_peak_200310.jpg
+16_mt-elgon_crater_2003:
+  file: 16_mt-elgon_crater_2003_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 16_mt-elgon_crater_2003.jpg
+28_mt-elgon_jackson_200310:
+  file: 28_mt-elgon_jackson_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 28_mt-elgon_jackson_200310.jpg
+29_mt-elgon_lakes_200310:
+  file: 29_mt-elgon_lakes_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 29_mt-elgon_lakes_200310jpg
+30_mt-elgon_crater_200310:
+  file: 30_mt-elgon_crater_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 30_mt-elgon_crater_200310.jpg
+31_mt-elgon_veg_200310:
+  file: 31_mt-elgon_veg_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 31_mt-elgon_veg_200310.jpg
+32_mt-elgon_craeter_200310:
+  file: 32_mt-elgon_craeter_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 32_mt-elgon_craeter_200310.jpg
+34_mt-elgon_landscape_200310:
+  file: 34_mt-elgon_landscape_200310_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 34_mt-elgon_landscape_200310.jpg
+
+0001_rwe-climb_wp001_20060613:
+  file: 0001_rwe-climb_wp001_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0001_rwe-climb_wp001_20060613.jpg
+0002_rwe-climb_wp002_20060613:
+  file: 0002_rwe-climb_wp002_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0002_rwe-climb_wp002_20060613.jpg
+0003_rwe-climb_wp003_20060613:
+  file: 0003_rwe-climb_wp003_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0003_rwe-climb_wp003_20060613.jpg
+0004_rwe-climb_wp004_20060613:
+  file: 0004_rwe-climb_wp004_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0004_rwe-climb_wp004_20060613.jpg
+
+0007_rwe-climb_wp007_20060613:
+    file: 0007_rwe-climb_wp007_20060613_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    source: 0007_rwe-climb_wp007_20060613jpg
+0008_rwe-climb_wp008_20060613:
+    file: 0008_rwe-climb_wp008_20060613_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    source: 0008_rwe-climb_wp008_20060613.jpg
+0006_rwe_nyabithaba-camp_20060613:
+    file: 0006_rwe_nyabithaba-camp_20060613_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    source: 0006_rwe_nyabithaba-camp_20060613.jpg
+0007_rwe_nyabithaba-camp_20060613:
+    file: 0007_rwe_nyabithaba-camp_20060613_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    source: 0007_rwe_nyabithaba-camp_20060613.jpg
+0008_rwe_nyabithaba-camp_20060613:
+    file: 0008_rwe_nyabithaba-camp_20060613_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    source: 0008_rwe_nyabithaba-camp_20060613.jpg
+0012_rwe-climb_wp012_20060613:
+    file: 0012_rwe-climb_wp012_20060613_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    source: 0012_rwe-climb_wp012_20060613.jpg
+
+0013_rwe_kichuchu-climb_20060614:
+  file: 0013_rwe_kichuchu-climb_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0013_rwe_kichuchu-climb_20060614.jpg
+0014_rwe_kichuchu-climb_20060614:
+  file: 0014_rwe_kichuchu-climb_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0014_rwe_kichuchu-climb_20060614.jpg
+0019_rwe-climb_wp017_20060614:
+  file: 0019_rwe-climb_wp017_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0019_rwe-climb_wp017_20060614.jpg
+0024_rwe-climb_wp021_20060614:
+  file: 0024_rwe-climb_wp021_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0024_rwe-climb_wp021_20060614.jpg
+0025_rwe-climb_wp022_20060614:
+  file: 0025_rwe-climb_wp022_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0025_rwe-climb_wp022_20060614.jpg
+0026_rwe-climb_wp023_20060614:
+  file: 0026_rwe-climb_wp023_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0026_rwe-climb_wp023_20060614.jpg
+0029_rwe-climb_wp023_20060614:
+  file: 0029_rwe-climb_wp023_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0029_rwe-climb_wp023_20060614.jpg
+0031_rwe-climb_wp023_20060614:
+  file: 0031_rwe-climb_wp023_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0031_rwe-climb_wp023_20060614.jpg
+0035_rwe-climb_wp026_20060614:
+  file: 0035_rwe-climb_wp026_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0035_rwe-climb_wp026_20060614.jpg
+0039_rwe-climb_wp028-029_20060614:
+  file: 0039_rwe-climb_wp028-029_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0039_rwe-climb_wp028-029_20060614.jpg
+0046_rwe-climb_wp033_20060614:
+  file: 0046_rwe-climb_wp033_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0046_rwe-climb_wp033_20060614.jpg
+
+0004_rwe-climb_wp095_20060619:
+  file: 0004_rwe-climb_wp095_20060619_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0004_rwe-climb_wp095_20060619.jpg
+0005_rwe-climb_wp004_20060613:
+  file: 0005_rwe-climb_wp004_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0005_rwe-climb_wp004_20060613.jpg
+0005_rwe-climb_wp005_20060613:
+  file: 0005_rwe-climb_wp005_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0005_rwe-climb_wp005_20060613.jpg
+0006_rwe-climb_wp095_20060619:
+  file: 0006_rwe-climb_wp095_20060619_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0006_rwe-climb_wp095_20060619.jpg
+
+0006_rwe-climb_wp006_20060613:
+  file: 0006_rwe-climb_wp006_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0006_rwe-climb_wp006_20060613.jpg
+
+0009_rwe-climb_wp009_20060613:
+  file: 0009_rwe-climb_wp009_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0009_rwe-climb_wp009_20060613.jpg
+0010_rwe-climb_wp010_20060613:
+  file: 0010_rwe-climb_wp010_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0010_rwe-climb_wp010_20060613.jpg
+0011_rwe-climb_wp011_20060613:
+  file: 0011_rwe-climb_wp011_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0011_rwe-climb_wp011_20060613.jpg
+0013_rwe-climb_wp013_20060613:
+  file: 0013_rwe-climb_wp013_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0013_rwe-climb_wp013_20060613.jpg
+0014_rwe-climb_wp014_20060613:
+  file: 0014_rwe-climb_wp014_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0014_rwe-climb_wp014_20060613.jpg
+0015_rwe-climb_wp015_20060613:
+  file: 0015_rwe-climb_wp015_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0015_rwe-climb_wp015_20060613.jpg
+0018_rwe-climb_wp017_20060614:
+  file: 0018_rwe-climb_wp017_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0018_rwe-climb_wp017_20060614.jpg
+
+0020_rwe-climb_wp018_20060614:
+  file: 0020_rwe-climb_wp018_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0020_rwe-climb_wp018_20060614.jpg
+0021_rwe-climb_wp019_20060614:
+  file: 0021_rwe-climb_wp019_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0021_rwe-climb_wp019_20060614.jpg
+0022_rwe-climb_wp020_20060614:
+  file: 0022_rwe-climb_wp020_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0022_rwe-climb_wp020_20060614.jpg
+
+0023_rwe-climb_wp020_20060614:
+  file: 0023_rwe-climb_wp020_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0023_rwe-climb_wp020_20060614.jpg
+0030_rwe-climb_wp023_20060614:
+  file: 0030_rwe-climb_wp023_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0030_rwe-climb_wp023_20060614.jpg
+0032_rwe-climb_wp024_20060614:
+  file: 0032_rwe-climb_wp024_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0032_rwe-climb_wp024_20060614.jpg
+0033_rwe-climb_wp025_20060614:
+  file: 0033_rwe-climb_wp025_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0033_rwe-climb_wp025_20060614.jpg
+0034_rwe-climb_wp025-026_20060614:
+  file: 0034_rwe-climb_wp025-026_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0034_rwe-climb_wp025-026_20060614.jpg
+0036_rwe-climb_wp027_20060614:
+  file: 0036_rwe-climb_wp027_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0036_rwe-climb_wp027_20060614.jpg
+0040_rwe-climb_wp029_20060614:
+  file: 0040_rwe-climb_wp029_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0040_rwe-climb_wp029_20060614.jpg
+0041_rwe-climb_wp030_20060614:
+  file: 0041_rwe-climb_wp030_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0041_rwe-climb_wp030_20060614jpg
+0042_rwe-climb_wp031_20060614:
+  file: 0042_rwe-climb_wp031_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0042_rwe-climb_wp031_20060614.jpg
+0043_rwe-climb_wp031_20060614:
+  file: 0043_rwe-climb_wp031_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0043_rwe-climb_wp031_20060614.jpg
+0044_rwe-climb_wp032_20060614:
+  file: 0044_rwe-climb_wp032_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0044_rwe-climb_wp032_20060614.jpg
+0045_rwe-climb_wp032-33_20060614:
+  file: 0045_rwe-climb_wp032-33_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0045_rwe-climb_wp032-33_20060614.jpg
+
+1016_rwe_bujongolo_2006006:
+  file: 1016_rwe_bujongolo_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1016_rwe_bujongolo_2006006.jpg
+1017_rwe_bujongolo_2006006:
+  file: 1017_rwe_bujongolo_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1017_rwe_bujongolo_2006006.jpg
+1018_rwe_2006006_bujongolo:
+  file: 1018_rwe_2006006_bujongolo_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1018_rwe_2006006_bujongolo.jpg
+1021_rwe_bujongolo_2006006:
+  file: 1021_rwe_bujongolo_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1021_rwe_bujongolo_2006006.jpg
+1026_rwe_evening_2006006:
+  file: 1026_rwe_evening_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1026_rwe_evening_2006006.jpg
+
+0057_rwe-climb_wp043_20060615:
+    file: 0057_rwe-climb_wp043_20060615_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    source: 0057_rwe-climb_wp043_20060615.jpg
+0060_rwe-climb_wp045_20060615:
+  file: 0060_rwe-climb_wp045_20060615_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0060_rwe-climb_wp045_20060615.jpg
+0083_rwe-climb_wp047_20060616:
+  file: 0083_rwe-climb_wp047_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0083_rwe-climb_wp047_20060616.jpg
+1031_rwe_l-kitandra_2006006:
+  file: 1031_rwe_l-kitandra_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1031_rwe_l-kitandra_2006006.jpg
+0084_rwe-climb_wp048_20060616:
+  file: 0084_rwe-climb_wp048_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0084_rwe-climb_wp048_20060616.jpg
+0085_rwe-climb_wp049-051_20060616:
+  file: 0085_rwe-climb_wp049-051_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0085_rwe-climb_wp049-051_20060616.jpg
+1035_rwe_l-kitara_2006006:
+  file: 1035_rwe_l-kitara_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1035_rwe_l-kitara_2006006.jpg
+1036_rwe_l-kitandra_2006006:
+  file: 1036_rwe_l-kitandra_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 1036_rwe_l-kitandra_2006006.jpg
+0086_rwe-climb_wp052_20060616:
+  file: 0086_rwe-climb_wp052_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0086_rwe-climb_wp052_20060616.jpg
+0088_rwe-climb_wp053_20060616:
+  file: 0088_rwe-climb_wp053_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0088_rwe-climb_wp053_20060616.jpg
+0089_rwe-climb_wp054_20060616:
+  file: 0089_rwe-climb_wp054_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0089_rwe-climb_wp054_20060616.jpg
+
+
+2018_rwe_scott-elliot-p_200606:
+  file: 2018_rwe_scott-elliot-p_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 2018_rwe_scott-elliot-p_200606.jpg
+3001_rwe_mt-baker_200606:
+  file: 3001_rwe_mt-baker_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3001_rwe_mt-baker_200606.jpg
+0090_rwe-climb_wp055_20060616:
+  file: 0090_rwe-climb_wp055_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0090_rwe-climb_wp055_20060616.jpg
+0091_rwe-climb_wp056_20060616:
+  file: 0091_rwe-climb_wp056_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0091_rwe-climb_wp056_20060616.jpg
+0093_rwe-climb_wp058_20060616:
+  file: 0093_rwe-climb_wp058_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0093_rwe-climb_wp058_20060616.jpg
+0098_rwe-climb_wp070_20060616:
+  file: 0098_rwe-climb_wp070_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0098_rwe-climb_wp070_20060616.jpg
+3002_rwe_everlasting_200606:
+  file: 3002_rwe_everlasting_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3002_rwe_everlasting_200606.jpg
+2037_rwe_elena-glacier_2006006:
+  file: 2037_rwe_elena-glacier_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 2037_rwe_elena-glacier_2006006.jpg
+
+2018_rwe_scott-elliot-p_200606:
+  file: 2018_rwe_scott-elliot-p_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 2018_rwe_scott-elliot-p_200606.jpg
+
+2037_rwe_elena-glacier_2006006:
+  file: 2037_rwe_elena-glacier_2006006_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 2037_rwe_elena-glacier_2006006.jpg
+
+
+3006_rwe_glacier_200606:
+  file: 3006_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3006_rwe_glacier_200606.jpg
+3007_rwe_glacier_200606:
+  file: 3007_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3007_rwe_glacier_200606.jpg
+3008_rwe_glacier_200606:
+  file: 3008_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3008_rwe_glacier_200606.jpg
+3009_rwe_glacier_200606:
+  file: 3009_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3009_rwe_glacier_200606.jpg
+3010_rwe_glacier_200606:
+  file: 3010_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3010_rwe_glacier_200606.jpg
+3011_rwe_thomas-glacier_200606:
+  file: 3011_rwe_thomas-glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3011_rwe_thomas-glacier_200606.jpg
+3012_rwe_glacier-lim_200606:
+  file: 3012_rwe_glacier-lim_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3012_rwe_glacier-lim_200606.jpg
+3013_rwe_melt-stream_200606:
+  file: 3013_rwe_melt-stream_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3013_rwe_melt-stream_200606.jpg
+3014_rwe_glacier_200606:
+  file: 3014_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3014_rwe_glacier_200606.jpg
+3015_rwe_glacier_200606:
+  file: 3015_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3015_rwe_glacier_200606.jpg
+3016_rwe_glacier-lim_200606:
+  file: 3016_rwe_glacier-lim_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3016_rwe_glacier-lim_200606.jpg
+3017_rwe_thomas-glacier_200606:
+  file: 3017_rwe_thomas-glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3017_rwe_thomas-glacier_200606.jpg
+3018_rwe_melt-sream_200606:
+  file: 3018_rwe_melt-sream_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3018_rwe_melt-sream_200606.jpg
+3019_rwe_cliffs_200606:
+  file: 3019_rwe_cliffs_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3019_rwe_cliffs_200606.jpg
+
+3021_rwe_glacier_200606:
+  file: 3021_rwe_glacier_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3021_rwe_glacier_200606.jpg
+3022_rwe_l-irene_200606:
+  file: 3022_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3022_rwe_l-irene_200606.jpg
+3024_rwe_l-irene_200606:
+  file: 3024_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3024_rwe_l-irene_200606.jpg
+3026_rwe_l-irene_200606:
+  file: 3026_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3026_rwe_l-irene_200606.jpg
+3027_rwe_l-irene_200606:
+  file: 3027_rwe_l-irene_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3027_rwe_l-irene_200606.jpg
+
+
+3028_rwe_thomas_200606:
+  file: 3028_rwe_thomas_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3028_rwe_thomas_200606.jpg
+0098_rwe-climb_wp070_20060616:
+  file: 0098_rwe-climb_wp070_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0098_rwe-climb_wp070_20060616.jpg
+3029_rwe_lae_200606:
+  file: 3029_rwe_lae_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3029_rwe_lae_200606.jpg
+3030_rwe_l-bujuku_200606:
+  file: 3030_rwe_l-bujuku_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3030_rwe_l-bujuku_200606.jpg
+3031_rwe_l-bujuku_200606:
+  file: 3031_rwe_l-bujuku_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3031_rwe_l-bujuku_200606.jpg
+0098_rwe-climb_wp070_20060616:
+  file: 0098_rwe-climb_wp070_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0098_rwe-climb_wp070_20060616.jpg
+0099_rwe-climb_wp071_20060616:
+  file: 0099_rwe-climb_wp071_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0099_rwe-climb_wp071_20060616.jpg
+0100_rwe-climb_wp072_20060616:
+  file: 0100_rwe-climb_wp072_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0100_rwe-climb_wp072_20060616.jpg
+0101_rwe-climb_wp074_20060616:
+  file: 0101_rwe-climb_wp074_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0101_rwe-climb_wp074_20060616.jpg
+
+0102_rwe-climb_wp076_20060616:
+  file: 0102_rwe-climb_wp076_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0102_rwe-climb_wp076_20060616.jpg
+0103_rwe-climb_wp077_20060616:
+  file: 0103_rwe-climb_wp077_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0103_rwe-climb_wp077_20060616.jpg
+0104_rwe-climb_wp078_20060616:
+  file: 0104_rwe-climb_wp078_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0104_rwe-climb_wp078_20060616.jpg
+0105_rwe-climb_wp079_20060616:
+  file: 0105_rwe-climb_wp079_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0105_rwe-climb_wp079_20060616.jpg
+0106_rwe-climb_wp081_20060618:
+  file: 0106_rwe-climb_wp081_20060618_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0106_rwe-climb_wp081_20060618.jpg
+0107_rwe-climb_wp082_20060618:
+  file: 0107_rwe-climb_wp082_20060618_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0107_rwe-climb_wp082_20060618.jpg
+0108_rwe-climb_wp084_20060619:
+  file: 0108_rwe-climb_wp084_20060619_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0108_rwe-climb_wp084_20060619.jpg
+
+3033_rwe_heathland_200606:
+  file: 3033_rwe_heathland_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3033_rwe_heathland_200606.jpg
+3034_rwe_bifgo-bog_200606:
+  file: 3034_rwe_bifgo-bog_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3034_rwe_bifgo-bog_200606.jpg
+
+3036_rwe_path_200606:
+  file: 3036_rwe_path_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 3036_rwe_path_200606.jpg
+0114_rwe-climb_wp090_20060619:
+  file: 0114_rwe-climb_wp090_20060619_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0114_rwe-climb_wp090_20060619.jpg
+0116_rwe-climb_wp092_20060619:
+  file: 0116_rwe-climb_wp092_20060619_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  source: 0116_rwe-climb_wp092_20060619.jpg

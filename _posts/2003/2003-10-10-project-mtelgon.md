@@ -5,7 +5,7 @@ layout: pubpage
 categories: project
 doctype: none
 continent: africa
-source: '<i>SIDA</i>, 2003'
+source:
 date: 2003-10-10
 enddate: 2003-10-14
 projectid:

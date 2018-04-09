@@ -5,60 +5,9 @@ layout: pubpage
 categories: image
 doctype: image
 source: "<i>Thomas Gumbricht</i>, October 2003, Mount Elgon, Uganda"
-figure1A: 03_mt-Elgon_thomas_2003
-figure1B: 04_mt-Elgon_guides_2003
-figure1C: 07_mt_elgon_200310
-figure1D: 08_mt-elgon_thomas_2003
-figure1E: 10_mt-elgon_thomas_2003
-figure1F: 12_mt-elgon_bamboo_200310
-figure1G: 14_mt-elgon_thomas_200310
-figure1H: 15_mt-elgon_thomas_200310
-figure1I: 17_mt-elgon_peak_200310
-figure1J: 19_mt-elgon_summit_2003
-figure1K: 20_mt-elgon_thomas_200310
-figure1L: 24_mt-elgon_thomas-joakim_200310
-figure1M: 25_mt-elgon_joakim_200310
-figure1N: 26_mt-elgon_thomas_200310
-figure1O: 27_mt_elgon_thomas
-figure1P: 27_mt-elgon_joakim_200310
-figure1Q: 30_mt_elgon_thomas
-figure1R: 33_mt-elgon_thomas-rain_2003
-
-
-figure2A: 109_Kyoga_boat-survey_2002
-figure2B: 220_Kyoga_boat-survey_2002
-figure2C: 123_Kyoga_boat-survey_2002
-figure2D: 210_Kyoga_boat-survey_2002
-figure2E: 211_Kyoga_boat-survey_2002
-figure2F: 212_Kyoga_boat-survey_2002
-figure2G: 213_Kyoga_boat-survey_2002
-figure2H: 219_Kyoga_boat-survey_2002
-figure2I: 221_Kyoga_boat-survey_2002
-
-figure3A: 126_Kyoga_boat-survey_2002
-figure3B: 127_Kyoga_boat-survey_2002
-figure3C: 128_Kyoga_boat-survey_2002
-figure3D: 130_Kyoga_boat-survey_2002
-figure3E: 132_Kyoga_boat-survey_2002
-figure3F: 133_Kyoga_boat-survey_2002
-figure3G: 134_Kyoga_boat-survey_2002
-figure3H: 215_Kyoga_boat-survey_2002
-figure3I: 217_Kyoga_boat-survey_2002
-
-figure4A: 110_Kyoga_boat-survey_2002
-figure4B: 117_Kyoga_boat-survey_2002
-figure4C: 201_Kyoga_boat-survey_2002
-figure4D: 207_Kyoga_boat-survey_2002
-figure4E: 208_Kyoga_boat-survey_2002
-figure4F: 111_Kyoga_camilla_2002
-
-figure5A: 209_Kyoga_boat-survey_2002
-figure5B: 205_Kyoga_boat-survey_2002
-figure5C: 136_Kyoga_boat-survey_2002
-
 doiurl: '#'
 date: 2002-10-01
-projectid: kyoga
+projectid: elgon
 project:
 pattern:
 process:
@@ -67,9 +16,89 @@ number:
 issue:
 editor:
 access: 'imageaccess'
+
+
+cultivated land:
+montane forest: 2000-3500
+bamboo: 3500
+giant heather: 3500-4000
+alpine (incl groundsel and lobelia): 4000-4500
+lichens-mosses: 4500-5000
+
+hiking:
+figure1A: 04_mt-Elgon_guides_2003
+figure1B: 03_mt-Elgon_thomas_2003
+figure1C: 07_mt_elgon_200310
+figure1D: 12_mt-elgon_bamboo_200310
+figure1E: 10_mt-elgon_200310_10
+figure1F: 08_mt-elgon_thomas_200310
+figure1G: 14_mt-elgon_thomas_200310
+figure1H: 15_mt-elgon_thomas_200310
+figure1I: 26_mt-elgon_thomas_200310
+figure1J: 17_mt-elgon_peak_200310
+figure1K: 19_mt-elgon_summit_2003
+figure1L: 20_mt-elgon_thomas_200310
+figure1M: 27_mt-elgon_joakim_200310
+figure1N: 25_mt-elgon_joakim_200310
+figure1O: 30_mt_elgon_thomas
+figure1P: 24_mt-elgon_thomas-joakim_200310
+figure1Q: 33_mt-elgon_thomas-rain_2003
+figure1R: 27_mt_elgon_thomas
+
+cultivated:
+montaneforest:
+
+figure2A: 37_mt-elgon_waterfall_2003
+figure2B: 37_mt-elgon_waterfall_200310
+figure2C: 05_mt-elgon_path_200310
+figure2D: 06_mt-elgon_jocke_200310
+
+bambooforest:
+figure3A: 09_mt-elgon_bamboo_200310
+figure3B: 11_mt-elgon_bamboo_200310
+
+gianheather:
+figure4A: 31_mt-elgon_stream_200310
+figure4B: 29_mt-elgon_thomas_2003
+figure4C: 14_mt-elgon_evergreen_200310
+
+figure4D: 34_mt-elgon_landscape_2003
+figure4E: 16_mt-elgon_thomas_200310
+figure4F: 08_mt-elgon_landscape_200310
+
+alpine:
+figure5A: 01_mt_Elgon_flower
+figure5B: 11_mt-elgon_veg_2003
+figure5C: 12_mt-elgon_jackson_200310
+figure5D: 18_mt-elgon_flowers_200310
+figure5E: 23_mt-elgon_veg_200310
+figure5F: 22_mt-elgon_plateau_200310
+figure5G: 23_mt-elgon_plateau_200310
+figure5H: 24_mt-elgon_plateau_200310
+figure5I: 28_mt-elgon_thomas_200310
+figure5J: 32_mt-elgon_craterwalk_2003
+figure5K: 35_mt-elgon_crater_200310
+lobelia:
+figure5L: 09_mt-elgon_lake_200310
+figure5M: 05_mt-elgon_landscape_200310
+figure5N: 06_mt_elgon_crater
+figure5O: 22_mt-elgon_thomas_200310
+
+crater-peak:
+
+figure6A: 13_mt-elgon_peak_200310
+figure6B: 16_mt-elgon_crater_2003
+figure6C: 28_mt-elgon_jackson_200310
+figure6D: 29_mt-elgon_lakes_200310
+figure6E: 30_mt-elgon_crater_200310
+figure6F: 31_mt-elgon_veg_200310
+figure6G: 32_mt-elgon_craeter_200310
+figure6H: 34_mt-elgon_landscape_200310
+figure6I: 33_mt-elgon_thomas_200310
+
 ---
 
-Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size.
+The first group of photos show the hike, while the other groups show the vegetation zonation from the foot hill to the peak: montane forests, bamboo forest, giant heather forest, alpine vegetation (including lobelias) and last the crater and peak region dominated by lichens and mosses.
 
 <figure class="third">
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1A].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1A].file }}" alt="image"></a>
@@ -87,17 +116,15 @@ Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1J].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1J].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1K].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1K].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1L].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1L].file }}" alt="image"></a>
-  <figcaption>The team hiking Mount Elgon.</figcaption>
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1M].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1M].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1N].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1N].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1O].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1O].file }}" alt="image"></a>
-  <figcaption>The team hiking Mount Elgon.</figcaption>
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1P].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1P].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1Q].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1Q].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1R].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1R].file }}" alt="image"></a>
-  <figcaption>The team hiking Mount Elgon.</figcaption>
+  <figcaption>Hiking Mount Elgon.</figcaption>
 </figure>
 
 <figure class="third">
@@ -109,17 +136,7 @@ Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure2D].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure2D].file }}" alt="image"></a>
 
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure2E].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure2E].file }}" alt="image"></a>
-
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure2F].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure2F].file }}" alt="image"></a>
-
-	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure2G].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure2G].file }}" alt="image"></a>
-
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure2H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure2H].file }}" alt="image"></a>
-
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure2I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure2I].file }}" alt="image"></a>
-
-  <figcaption>Fishing in Lake Kyoga, Uganda. </figcaption>
+  <figcaption>The montane forest (lower slopes at 2000-3000 m above sea loevel) </figcaption>
 </figure>
 
 <figure class="third">
@@ -127,21 +144,8 @@ Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3B].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3B].file }}" alt="image"></a>
 
-	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3C].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3C].file }}" alt="image"></a>
 
-	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3D].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3D].file }}" alt="image"></a>
-
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3E].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3E].file }}" alt="image"></a>
-
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3F].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3F].file }}" alt="image"></a>
-
-	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3G].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3G].file }}" alt="image"></a>
-
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3H].file }}" alt="image"></a>
-
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure3I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure3I].file }}" alt="image"></a>
-
-  <figcaption>Villages (illegal settlements) on the floating mat of papyrus plugging the outlet of Lake Kyoga.  </figcaption>
+  <figcaption>The bamboo forest. </figcaption>
 </figure>
 
 <figure class="third">
@@ -149,21 +153,68 @@ Photos taken during reconnaissance boating on Lake Kyoga in Ocotber 2002. Photos
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure4B].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure4B].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure4C].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure4C].file }}" alt="image"></a>
 
-	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure4D].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure4D].file }}" alt="image"></a>
+
 
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure4E].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure4E].file }}" alt="image"></a>
 
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure4F].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure4F].file }}" alt="image"></a>
 
-	<figcaption>Lake Kyoga boats, and Camilla Andersson.</figcaption>
+	<figcaption>Giant Heather zone.</figcaption>
 </figure>
 
 <figure class="third">
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5A].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5A].file }}" alt="image"></a>
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5B].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5B].file }}" alt="image"></a>
-  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5C].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5C].file }}" alt="image"></a>
-	<a href="{{ site.commonurl }}/images/{{
-	site.data.images[page.figure5C].file }}" alt="image"></a>
 
-  <figcaption>Water hyacinths also causes problems, including blocking access to landing sites. The right photo shows the excavator clearing a canal thorugh the papyrus. </figcaption>
+  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5B].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5B].file }}" alt="image"></a>
+
+  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5C].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5C].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5D].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5D].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5E].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5E].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5F].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5F].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5G].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5G].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5H].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5I].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5J].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5J].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5K].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5K].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5L].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5L].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5M].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5M].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5N].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5N].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure5O].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure5O].file }}" alt="image"></a>
+
+  <figcaption>Alpine vegetation zone. </figcaption>
+</figure>
+
+<figure class="third">
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6A].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6A].file }}" alt="image"></a>
+
+  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6B].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6B].file }}" alt="image"></a>
+
+  <a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6C].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6C].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6D].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6D].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6E].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6E].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6F].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6F].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6G].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6G].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6H].file }}" alt="image"></a>
+
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure6I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure6I].file }}" alt="image"></a>
+
+
+  <figcaption>Lichens and mosses. </figcaption>
 </figure>

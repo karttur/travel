@@ -22,27 +22,27 @@ hiking:
 day1: start
 fig1A: 0001_rwe-climb_wp001_20060613
 fig1B: 0002_rwe-climb_wp002_20060613
-fig1D: 0005_rwe-climb_wp005_20060613
-fig1E: 0007_rwe-climb_wp007_20060613
-fig1F: 0008_rwe-climb_wp008_20060613
-fig1G: 0006_rwe_nyabithaba-camp_20060613
-fig1H: 0012_rwe-climb_wp012_20060613
-fig1I: 0007_rwe_nyabithaba-camp_20060613
+fig1C: 0005_rwe-climb_wp005_20060613
+fig1D: 0007_rwe-climb_wp007_20060613
+fig1E: 0008_rwe-climb_wp008_20060613
+fig1F: 0012_rwe-climb_wp012_20060613
+fig1G: 0007_rwe_nyabithaba-camp_20060613
+fig1H: 0006_rwe_nyabithaba-camp_20060613
+fig1I: 0009_rwe_pano_20060613
 
 day2: bamboo-heather
-fig2A:
-fig2B: 0014_rwe_kichuchu-climb_20060614
-fig2C: 0019_rwe-climb_wp017_20060614
-fig2D: 0024_rwe-climb_wp021_20060614
-fig2E: 0025_rwe-climb_wp022_20060614
-fig2F: 0026_rwe-climb_wp023_20060614
-fig2G:
-fig2H: 0031_rwe-climb_wp023_20060614
-fig2I: 0035_rwe-climb_wp026_20060614
-fig2J: 0039_rwe-climb_wp028-029_20060614
-fig2J: 0040_rwe-climb_wp029_20060614
-fig2K:
 
+fig2A: 0014_rwe_kichuchu-climb_20060614
+fig2B: 0019_rwe-climb_wp017_20060614
+fig2C: 0024_rwe-climb_wp021_20060614
+fig2D: 0025_rwe-climb_wp022_20060614
+fig2E: 0026_rwe-climb_wp023_20060614
+fig2F: 0023-wp023_rwe-climb_pan100_20060614
+fig2G: 1002_rwe_pano_20060614
+fig2H: 0035_rwe-climb_wp026_20060614
+fig2I: 0040_rwe-climb_wp029_20060614
+fig2J: 0038-wp028_rwe-climb_pan100_20060616
+fig2K: 0019_rwe_pano_20060613
 fig2L: 1016_rwe_bujongolo_2006006
 fig2M: 1017_rwe_bujongolo_2006006
 fig2N: 1021_rwe_bujongolo_2006006
@@ -52,34 +52,42 @@ day3:
 fig3A: 0057_rwe-climb_wp043_20060615
 fig3B: 0060_rwe-climb_wp045_20060615
 fig3C: 0083_rwe-climb_wp047_20060616
-fig3D: 0085_rwe-climb_wp049-051_20060616
-fig3E: 0086_rwe-climb_wp052_20060616
-fig3F: 1035_rwe_l-kitara_2006006
-fig3G: 0088_rwe-climb_wp053_20060616
-fig3H: 0089_rwe-climb_wp054_20060616
+fig3D: 0065-wp046_rwe-climb_pan100_20060616
+fig3E: 1028_rwe_pano_20060615
+fig3F: 0085_rwe-climb_wp049-051_20060616
+fig3G: 0086_rwe-climb_wp052_20060616
+fig3H: 1035_rwe_l-kitara_2006006
+fig3I: 0088_rwe-climb_wp053_20060616
+fig3J: 0089_rwe-climb_wp054_20060616
+fig3K: 0089_rwe-climb_wp054_20060616
 
 day4:
 fig4A: 2018_rwe_scott-elliot-p_200606
 fig4B: 3001_rwe_mt-baker_200606
 fig4C: 0090_rwe-climb_wp055_20060616
+
 fig4D: 0091_rwe-climb_wp056_20060616
 fig4E: 0093_rwe-climb_wp058_20060616
+fig4F: 0059-wp059_rwe-climb_pan100_20060616
 
-fig4F: 3002_rwe_everlasting_200606
-fig4G: 2037_rwe_elena-glacier_2006006
+fig4G: 2036_rwe_pano_20060617
+fig4H: 2037_rwe_elena-glacier_2006006
+fig4I: 3002_rwe_everlasting_200606
+
 
 Glacier:
-fig5A: 3013_rwe_melt-stream_200606
-fig5B: 3014_rwe_glacier_200606
-fig5C: 3015_rwe_glacier_200606
-fig5D: 3009_rwe_glacier_200606
-fig5E: 3012_rwe_glacier-lim_200606
-fig5F: 3016_rwe_glacier-lim_200606
-fig5G: 3006_rwe_glacier_200606
-fig5H: 3011_rwe_thomas-glacier_200606
-fig5I: 3017_rwe_thomas-glacier_200606
-fig5J: 3018_rwe_melt-sream_200606
-fig5K: 3019_rwe_cliffs_200606
+fig5A: 3005_rwe_pano_200606
+fig5B: 3013_rwe_melt-stream_200606
+fig5C: 3014_rwe_glacier_200606
+fig5D: 3015_rwe_glacier_200606
+fig5E: 3009_rwe_glacier_200606
+fig5F: 3012_rwe_glacier-lim_200606
+fig5G: 3016_rwe_glacier-lim_200606
+fig5H: 3006_rwe_glacier_200606
+fig5I: 3011_rwe_thomas-glacier_200606
+fig5J: 3017_rwe_thomas-glacier_200606
+fig5K: 3018_rwe_melt-sream_200606
+fig5L: 3019_rwe_cliffs_200606
 
 day6: Irene hut
 fig6A: 3021_rwe_glacier_200606
@@ -159,7 +167,7 @@ crater-peak:
 
 ---
 
-The first group of photos show the hike, while the other groups show the vegetation zonation from the foot hill to the peak: montane forests, bamboo forest, giant heather forest, alpine vegetation (including lobelias) and last the crater and peak region dominated by lichens and mosses.
+In June 2006 I participated in the [Centenary Celebrations of the Rwenzori climbing by the scientific expedition led by Luigi Amedeo of Savoy, Duke of Abruzzi in 1906](http://www.rwenzoriabruzzi.com/). You can find my studies on the glacier retreat in a [post on my professional pages](https://karttur.github.io/professional/rwenzori/).
 
 <figure class="third">
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig1A].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig1A].file }}" alt="image"></a>
@@ -174,7 +182,7 @@ The first group of photos show the hike, while the other groups show the vegetat
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig1H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig1H].file }}" alt="image"></a>
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig1I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig1I].file }}" alt="image"></a>
 
-  <figcaption>Day 1.</figcaption>
+  <figcaption>Ibanda to Nyabithaba.</figcaption>
 </figure>
 
 <figure class="third">
@@ -208,7 +216,7 @@ The first group of photos show the hike, while the other groups show the vegetat
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig2O].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig2O].file }}" alt="image"></a>
 
-  <figcaption>Day 2. </figcaption>
+  <figcaption>Nyabithaba via Guy Yeoman Hut to Bujongolo Rock Shelter. This is the route that the Duke of the Abbruzi took 100 years before us. Nowadays the hikers stay at Guy Yeoman Hut (the panorama photo in the second last row center above). </figcaption>
 </figure>
 
 <figure class="third">
@@ -228,7 +236,9 @@ The first group of photos show the hike, while the other groups show the vegetat
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig3H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig3H].file }}" alt="image"></a>
 
-  <figcaption>Day 3. </figcaption>
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig3I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig3I].file }}" alt="image"></a>
+
+  <figcaption>Bujongolo Rock Shelter to Kitandara Lakes. Both Upper and Lower Kitandara are seen on the upper right photo. The hut is between the lakes. Both lakes are also in the lower tight photo, taken on route from Kitandara towards Mount Stanley.</figcaption>
 </figure>
 
 <figure class="third">
@@ -244,7 +254,9 @@ The first group of photos show the hike, while the other groups show the vegetat
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig4H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig4H].file }}" alt="image"></a>
 
-	<figcaption>Giant Heather zone.</figcaption>
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig4I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig4I].file }}" alt="image"></a>
+
+	<figcaption>From Kitandara lakes via Scott-Elliot pass to Elena Hut.</figcaption>
 </figure>
 
 <figure class="third">
@@ -270,7 +282,9 @@ The first group of photos show the hike, while the other groups show the vegetat
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig5K].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig5K].file }}" alt="image"></a>
 
-  <figcaption>The Rwenzori glacier.</figcaption>
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig5L].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig5L].file }}" alt="image"></a>
+
+  <figcaption> Mount Stanley Glacier, me and my guide descended via the Margeritha glacier (all the others returned to Elena Hut) </figcaption>
 </figure>
 
 <figure class="third">
@@ -284,8 +298,7 @@ The first group of photos show the hike, while the other groups show the vegetat
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig6E].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig6E].file }}" alt="image"></a>
 
-
-  <figcaption>Irene hut (a less trodded path of Mount Stanley). </figcaption>
+  <figcaption> Irene Lake (and hut) at the end of Margertiha gacier.</figcaption>
 </figure>
 
 
@@ -308,7 +321,7 @@ The first group of photos show the hike, while the other groups show the vegetat
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig7I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig7I].file }}" alt="image"></a>
 
-  <figcaption>From Irene hut to Lake Bujuku.</figcaption>
+  <figcaption>From Irene hut to Lake Bujuku. The plan was to stay at Bujuku hut, but once we reached Lake Bujuku (at 4 pm) it turned out that all our equipment and food had been taken to John Matte Hut. So we had to jog over Bigo Bogs to make it to John Matte before sunset. </figcaption>
 </figure>
 
 <figure class="third">
@@ -328,9 +341,9 @@ The first group of photos show the hike, while the other groups show the vegetat
 
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig8H].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig8H].file }}" alt="image"></a>
 
-	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig8I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig.8I)].file }}" alt="image"></a>
+	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig8I].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig8I].file }}" alt="image"></a>
 
-  <figcaption>Upper and Lower Bigo Bog.</figcaption>
+  <figcaption>Upper and Lower Bigo Bog, on route between Lake Bujuku and John Matte Hut. At John Matte Hut we met the Italians, who had started the descent one day earlier. They were in a hurry to get to a television set to see Italy play in the football worldcup.</figcaption>
 
 </figure>
 
@@ -341,5 +354,5 @@ The first group of photos show the hike, while the other groups show the vegetat
 
   <a href="{{ site.commonurl }}/images/{{ site.data.images[page.fig9C].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.fig9C].file }}" alt="image"></a>
 
-  <figcaption>Tha last leg - we all made it to the Italian match in the 2006 World Cup.</figcaption>
+  <figcaption>John Matte Hut to Ibanda - we all made it to the Italian match in the 2006 World Cup.</figcaption>
 </figure>

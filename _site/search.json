@@ -4,7 +4,7 @@
     {
       "title"			: "Mount Rwenzori centennial climb",
       "link"			: "http://localhost:4000/image/image-mt-rwenzori/",
-      "excerpt"		: "The first group of photos show the hike, while the other groups show the vegetation zonation from the foot hill to the peak: montane forests, bamboo forest, giant heather forest, alpine vegetation (including lobelias) and last the crater and peak region dominated by lichens and mosses."
+      "excerpt"		: "In June 2006 I participated in the Centenary Celebrations of the Rwenzori climbing by the scientific expedition led by Luigi Amedeo of Savoy, Duke of Abruzzi in 1906. You can find my studies on the glacier retreat in a post on my professional pages."
     }
   
 
@@ -13,6 +13,14 @@
       "title"			: "Rwenzori Mountains, Uganda",
       "link"			: "http://localhost:4000/project/project-rewenzori_tg/",
       "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Rwenzori Mountains Uganda - commemorate centennial climb",
+      "link"			: "http://localhost:4000/movie/movie-FAO-rewenzori_tg/",
+      "excerpt"		: " Rwenzori Mountains Uganda - commemorate centennial climb "
     }
   
 

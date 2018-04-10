@@ -1445,6 +1445,7 @@
   caption: "Mount Elgon hike."
   credit: null
   source: 0107_rwe-climb_wp082_20060618.jpg
+
 0108_rwe-climb_wp084_20060619:
   file: 0108_rwe-climb_wp084_20060619_ql.jpg
   author: Gumbricht, T.
@@ -1458,6 +1459,7 @@
   caption: "Mount Elgon hike."
   credit: null
   source: 3033_rwe_heathland_200606.jpg
+  
 3034_rwe_bifgo-bog_200606:
   file: 3034_rwe_bifgo-bog_200606_ql.jpg
   author: Gumbricht, T.
@@ -1483,3 +1485,91 @@
   caption: "Mount Elgon hike."
   credit: null
   source: 0116_rwe-climb_wp092_20060619.jpg
+
+0009_rwe_pano_20060613:
+  file: 0009_rwe_pano_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 0009_rwe_pano_20060613_m.jpg
+
+0023-wp023_rwe-climb_pan100_20060614:
+  file: 0023-wp023_rwe-climb_pan100_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 0023-wp023_rwe-climb_pan100_20060614_m.jpg
+
+0019_rwe_pano_20060613:
+  file: 0019_rwe_pano_20060613_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 0019_rwe_pano_20060613_m.jpg
+
+0038-wp028_rwe-climb_pan100_20060616:
+  file: 0038-wp028_rwe-climb_pan100_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 0038-wp028_rwe-climb_pan100_20060616_m.jpg
+
+1028_rwe_pano_20060615:
+  file: 1028_rwe_pano_20060615_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 1028_rwe_pano_20060615_m.jpg
+
+0059-wp059_rwe-climb_pan100_20060616:
+  file: 0059-wp059_rwe-climb_pan100_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 0059-wp059_rwe-climb_pan100_20060616_m.jpg
+
+0065-wp046_rwe-climb_pan100_20060616:
+  file: 0065-wp046_rwe-climb_pan100_20060616_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 0065-wp046_rwe-climb_pan100_20060616_m.jpg
+
+3005_rwe_pano_200606:
+  file: 3005_rwe_pano_200606_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 3005_rwe_pano_200606_m.jpg
+
+1002_rwe_pano_20060614:
+  file: 1002_rwe_pano_20060614_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 1002_rwe_pano_20060614_m.jpg
+
+2036_rwe_pano_20060617:
+    file: 2036_rwe_pano_20060617_ql.jpg
+    author: Gumbricht, T.
+    caption: "Mount Elgon hike."
+    credit: null
+    pano: 100
+    source: 2036_rwe_pano_20060617_m.jpg
+
+2032_rwe_pano_20060617:
+  file: 2032_rwe_pano_20060617_ql.jpg
+  author: Gumbricht, T.
+  caption: "Mount Elgon hike."
+  credit: null
+  pano: 100
+  source: 2032_rwe_pano_20060617_m.jpg

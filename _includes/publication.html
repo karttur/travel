@@ -1,0 +1,40 @@
+
+<li>
+<article>
+<span style="font-size: 80%; display: block;">
+  {{ post.authors | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }},
+{% if post.doiurl %}
+  {% if post.doiurl contains 'http' %}
+    <a href="{{ post.doiurl }}">
+  {% else %}
+    <a href="{{ site.url }}{{ post.url }}">
+  {% endif %}
+    {{ post.source }}
+    <span style="font-weight: bold;"><time datetime="{{ post.date |  date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>.
+    {% if post.access %}
+      {% if post.access == 'open' %}
+        <img src = "{{ site.commonurl }}/images/openaccess.png" style="width:30px;height:20px;border:0;"  alt='open'>
+      {% elsif post.access == 'researchgate' %}
+          <img src = "{{ site.commonurl }}/images/rgaccess.png" style="width:20px;height:20px;border:0;"  alt='researchgate'>
+      {% elsif post.access == 'pdfaccess' %}
+        <img src = "{{ site.commonurl }}/images/pdfaccess.png" style="width:48px;height:20px;border:0;" alt='karttur'>
+      {% elsif post.access == 'movieaccess' %}
+        <img src = "{{ site.commonurl }}/images/movieaccess.png" style="width:72px;height:20px;border:0;" alt='movie'>
+        {% elsif post.access == 'imageaccess' %}
+          <img src = "{{ site.commonurl }}/images/imageaccess.png" style="width:32px;height:20px;border:0;" alt='movie'>
+
+      {% elsif post.access == 'closed' %}
+        <img src = "{{ site.commonurl }}/images/closedaccess.png" style="width:30px;height:20px;border:0;" alt='closed'>
+      {% endif %}
+    {% endif %}
+    </a>
+{% else %}
+    {{ post.source }}
+    <a href="#">
+    <span style="font-weight: bold;"><time datetime="{{ post.date |  date_to_xmlschema }}">{{ post.date | date: "%Y" }}</time></span>.
+    </a>
+{% endif %}
+</span>
+<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+</article>
+</li>

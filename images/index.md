@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 title: Images
 excerpt: "Archive of Images"
 search_omit: true

@@ -17,7 +17,7 @@ issue:
 editor:
 sensor:
 summary: 'Climb to the top of Mount Elgon.'
-projurl: ../mt-elgon/
+projurl: /mt-elgon/
 tag:
   - Mount Elgon
   - Uganda

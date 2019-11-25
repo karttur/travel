@@ -10,10 +10,9 @@ projectid: rwenzori
 pattern:
 process:
 summary: "Commemorate centennial climb."
-projurl: ../rwenzori/
+projurl: /rwenzori/
 tag:
   - Rwenzori
   - Uganda
   - glacier
-access: 'pdfaccess'
 ---

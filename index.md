@@ -11,14 +11,8 @@ share: true
 <ul class="post-list">
   {% for post in site.categories.project %}
     {% if post.continent == 'africa' %}
-      {% if post.projurl contains 'http' %}
-        {% assign domain = '' %}
-      {% else %}
-        {% assign domain = post.projurl %}
-      {% endif %}
       <li><article>
-
-      <a href="{{ domain }}{{ link.url }}">{{ post.title }}</a>
+      <a href="{{ post.projurl }}">{{ post.title }}</a>
 
       (<span style="font-weight: bold;"><time datetime="{{ post.date | date_to_xmlschema }}">
       {{ post.date | date: "%Y" }}</time></span>).

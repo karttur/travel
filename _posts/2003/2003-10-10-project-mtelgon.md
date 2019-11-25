@@ -17,7 +17,7 @@ issue:
 editor:
 sensor:
 summary: 'Climb to the top of Mount Elgon.'
-projurl: https://karttur.github.io/travel/mtelgon/
+projurl: /mtelgon/
 tag:
   - Mount Elgon
   - Uganda

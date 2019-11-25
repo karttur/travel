@@ -10,7 +10,7 @@ projectid: rwenzori
 pattern:
 process:
 summary: "Commemorate centennial climb."
-projurl: https://karttur.github.io/travel/rwenzori/
+projurl: /rwenzori/
 tag:
   - Rwenzori
   - Uganda

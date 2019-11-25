@@ -17,7 +17,7 @@ issue:
 editor:
 sensor:
 summary: 'Lake Kyoga survey from air and boat.'
-projurl: https://karttur.github.io/travel/lakekyoga/
+projurl: /lakekyoga/
 tag:
   - Lake Kyoga
   - Uganda

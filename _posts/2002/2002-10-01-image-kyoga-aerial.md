@@ -48,7 +48,7 @@ editor:
 access: 'imageaccess'
 ---
 
-Photos taken during reconnaissance flight over Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size.
+Photos taken during reconnaissance flight over Lake Kyoga in Ocotber 2002. Photos taken by Camilla Andersson and Thomas Gumbricht. Slide cursor over images to view clear photo, click any image to see all photos in large size. The results of the study [integrated management of Lake Kyoga natural resources](https://karttur.github.io/professional/lakekyoga/) are available on my [professional project pages](https://karttur.github.io/professional/projects/).
 
 <figure class="third">
 	<a href="{{ site.commonurl }}/images/{{ site.data.images[page.figure1A].source }}"><img src="{{ site.commonurl }}/images/{{ site.data.images[page.figure1A].file }}" alt="image"></a>

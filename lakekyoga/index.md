@@ -7,7 +7,7 @@ share: true
 
 ---
 
-Lake Kyoga surveys and samplings.
+Photos and movies for surveys and sampling missions in Lake Kyoga, Uganda. The scientific results of the study [integrated management of Lake Kyoga natural resources](https://karttur.github.io/professional/lakekyoga/) are available on my [professional project pages](https://karttur.github.io/professional/projects/).
 
 ### Movie
 

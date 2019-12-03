@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Travels"
-excerpt: "Travels"
+excerpt: "Private and professional travels to trivial and exotic places."
 search_omit: true
 share: true
 ---
